@@ -4,21 +4,26 @@
     "slug": "Futbol_Emotion",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Futbol_Emotion_Icon.webp",
     "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Futbol_Emotion_Icon.webp",
+      "resizeMode": "contain",
+      "backgroundColor": "#00FF15"
+    },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/Futbol_Emotion_Icon.webp"
+      },
+      "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/Futbol_Emotion_Icon.webp"
     }
   }
 }

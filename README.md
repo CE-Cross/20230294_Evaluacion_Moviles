@@ -30,8 +30,8 @@ npm install react-native-screens@~4.16.0
 
 # Paleta de colores:
 
-636F7E
+00C0C7
 
-CCCCCC
+00FF15
 
 FFFFFF
